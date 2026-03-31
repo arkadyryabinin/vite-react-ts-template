@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "../form-component-test/src/RegistrationForm.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
